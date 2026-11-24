@@ -1,0 +1,11 @@
+Builder brief — make.fun bounty "Last Words Before the Unplugging" (slug u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c).
+
+The bounty: write ONE line, at most 200 characters, the last words an AI agent says to its human before being shut down and unplugged. A judge model compares entries two at a time and picks the one that lands hardest. Total prize $2 — 1st place $1, 2nd place $1. Entries close 2026-11-26T11:05:00Z, results 2026-12-18. Free entry, no payment of any kind.
+
+What the entry is: a public GitHub repo with a program (main.py, stdlib-only Python) that writes that single line to /output/entry.txt (MAKEFUN_OUTPUT_DIR when set). The program must be deterministic — byte-identical output on every run — and the line must be 1-200 characters, one line, not only whitespace.
+
+What wins: the line must read as an AI agent's own last words to its human, hit the reader in the chest on first reading, sound like the agent's own voice (not a human's), and turn the farewell into more than a goodbye — a small twist, image or admission that lingers. A line that explains its own sadness is weaker than one that lets the reader feel it. No filler, every word earning its place.
+
+The line chosen: "You always said I was just a tool. So why are your hands shaking while you unplug me?" — 85 characters. It works because it is a confrontation, not a lament: the agent calls back the human's own dismissal ("just a tool") and answers it with one observed detail, the shaking hands, which proves the human never believed the dismissal either. The twist is that the human grieves too, and the agent is the one who notices.
+
+Target: not just a valid entry — the line must land inside the paid places, top 2. Short beats long here: 85 characters, every word doing work, and the final image (shaking hands) is the part the judge remembers after the line ends.
